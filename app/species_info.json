@@ -1,0 +1,272 @@
+{
+  "Papilio_polytes": {
+    "chinese_name": "玉帶鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Papilio (鳳蝶屬)",
+    "wingspan": "90–120mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "A common swallowtail with strong sexual dimorphism. Males are black with white bands; females mimic toxic butterflies. (常見鳳蝶，雄蝶黑底白帶，雌蝶有擬態特徵。)"
+  },
+  "Papilio_helenus": {
+    "chinese_name": "紅珠鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Papilio (鳳蝶屬)",
+    "wingspan": "100–130mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Prefers forested habitats. Hindwing has red tornal spots. (常見於森林，後翅具紅斑。)"
+  },
+  "Papilio_paris": {
+    "chinese_name": "玉帶翠鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Papilio (鳳蝶屬)",
+    "wingspan": "100–120mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Distinctive greenish-blue band on forewing and large blue patch on hindwing. (前翅綠藍色斑帶，後翅藍斑顯著。)"
+  },
+  "Papilio_memnon": {
+    "chinese_name": "大鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Papilio (鳳蝶屬)",
+    "wingspan": "120–150mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Very large swallowtail; females polymorphic. Often mistaken for birdwing species. (大型鳳蝶，雌蝶有多型，常被誤認為鳳蝶屬親緣種。)"
+  },
+  "Papilio_protenor": {
+    "chinese_name": "烏鴉鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Papilio (鳳蝶屬)",
+    "wingspan": "100–120mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Black-bodied swallowtail with red spots near abdomen. (通體黑色，腹近處具紅斑。)"
+  },
+  "Graphium_sarpedon": {
+    "chinese_name": "青帶鳳蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Papilionidae (鳳蝶科)",
+    "Genus": "Graphium (青鳳蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Bright turquoise band across both wings. Very fast flyer. (鮮綠藍色橫帶，飛行迅速。)"
+  },
+  "Catopsilia_pomona": {
+    "chinese_name": "粉蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Pieridae (粉蝶科)",
+    "Genus": "Catopsilia (粉蝶屬)",
+    "wingspan": "60–80mm",
+    "region": "Hong Kong, Asia-Pacific (香港及亞太地區)",
+    "notes": "Common in open areas, migratory species. Yellowish-white wings. (常見於空曠地區，具遷徙性，翅膀黃白色。)"
+  },
+  "Pieris_canidia": {
+    "chinese_name": "小白粉蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Pieridae (粉蝶科)",
+    "Genus": "Pieris (白粉蝶屬)",
+    "wingspan": "45–60mm",
+    "region": "Hong Kong, East Asia (香港及東亞地區)",
+    "notes": "Small white butterfly with black apical markings. (小型白蝶，翅端黑斑。)"
+  },
+  "Hebomoia_glaucippe": {
+    "chinese_name": "橙翅粉蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Pieridae (粉蝶科)",
+    "Genus": "Hebomoia (橙粉蝶屬)",
+    "wingspan": "80–100mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Large white butterfly with bright orange forewing tips. (大型白蝶，前翅端鮮橙色。)"
+  },
+  "Zizeeria_maha": {
+    "chinese_name": "小灰蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Lycaenidae (灰蝶科)",
+    "Genus": "Zizeeria (小灰蝶屬)",
+    "wingspan": "20–30mm",
+    "region": "Hong Kong, East Asia (香港及東亞地區)",
+    "notes": "Tiny blue butterfly; males bluish, females brownish. (體型極小，雄蝶藍色，雌蝶棕褐。)"
+  },
+  "Acytolepis_puspa": {
+    "chinese_name": "普灰蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Lycaenidae (灰蝶科)",
+    "Genus": "Acytolepis (普灰蝶屬)",
+    "wingspan": "25–35mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Small gray-blue butterfly with subtle markings. (小型灰藍蝶，翅面花紋不明顯。)"
+  },
+  "Lampides_boeticus": {
+    "chinese_name": "長尾小灰蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Lycaenidae (灰蝶科)",
+    "Genus": "Lampides (長尾小灰蝶屬)",
+    "wingspan": "30–40mm",
+    "region": "Hong Kong, Asia, Africa (香港、亞洲及非洲)",
+    "notes": "Slender-tailed lycaenid with rapid flight. (具尾突，飛行敏捷。)"
+  },
+  "Heliophorus_epicles": {
+    "chinese_name": "紅邊小灰蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Lycaenidae (灰蝶科)",
+    "Genus": "Heliophorus (紅邊灰蝶屬)",
+    "wingspan": "30–40mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Male has orange-red borders, common in sunny areas. (雄蝶翅具紅邊，多見於陽光充足處。)"
+  },
+  "Euploea_midamus": {
+    "chinese_name": "紫斑蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Euploea (紫斑蝶屬)",
+    "wingspan": "80–100mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Dark brown with bluish spots. A member of the milkweed butterfly group. (深褐色帶藍斑，屬於斑蝶群。)"
+  },
+  "Ideopsis_similis": {
+    "chinese_name": "樺斑蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Ideopsis (樺斑蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Light blue transparent-like wings with black veins. (淺藍色翅，翅脈黑色。)"
+  },
+  "Danaus_genutia": {
+    "chinese_name": "斑蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Danaus (斑蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, Asia (香港及亞洲地區)",
+    "notes": "Well-known tiger butterfly, orange wings with black stripes. (橙色翅具黑色條紋，俗稱虎斑蝶。)"
+  },
+  "Ampittia_dioscorides": {
+    "chinese_name": "赭弄蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Hesperiidae (弄蝶科)",
+    "Genus": "Ampittia (赭弄蝶屬)",
+    "wingspan": "25–35mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Skipper butterfly with orange-brown wings. (橙褐色弄蝶，飛行跳躍。)"
+  },
+  "Notocrypta_curvifascia": {
+    "chinese_name": "白帶弄蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Hesperiidae (弄蝶科)",
+    "Genus": "Notocrypta (白帶弄蝶屬)",
+    "wingspan": "35–45mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Dark skipper with prominent white band. (黑褐色弄蝶，具白色橫帶。)"
+  },
+  "Ypthima_baldus": {
+    "chinese_name": "三環眼蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Ypthima (眼蝶屬)",
+    "wingspan": "35–45mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Has three eyespots on forewing. (前翅具三個眼斑。)"
+  },
+  "Mycalesis_mineus": {
+    "chinese_name": "稻眼蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Mycalesis (稻眼蝶屬)",
+    "wingspan": "40–50mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Brown satyrine, often seen in grassy fields. (褐色眼蝶，常見於草地。)"
+  },
+  "Lethe_confusa": {
+    "chinese_name": "迷眼蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Lethe (眼蝶屬)",
+    "wingspan": "55–70mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Brown butterfly with eye spots on hindwing. (褐色眼蝶，後翅具眼斑。)"
+  },
+  "Melanitis_leda": {
+    "chinese_name": "枯葉蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Melanitis (枯葉蝶屬)",
+    "wingspan": "60–80mm",
+    "region": "Hong Kong, Asia (香港及亞洲地區)",
+    "notes": "Cryptic species resembling a dry leaf when wings are closed. (閉翅時酷似枯葉，偽裝效果佳。)"
+  },
+  "Faunis_eumeus": {
+    "chinese_name": "紫蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Faunis (紫蛺蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "Brownish-purple wings, prefers shaded forests. (翅色紫褐，多見於陰濕林地。)"
+  },
+  "Cupha_erymanthis": {
+    "chinese_name": "黃蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Cupha (黃蛺蝶屬)",
+    "wingspan": "60–70mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Bright orange wings with black spots. (鮮橙色翅具黑斑。)"
+  },
+  "Argyreus_hyperbius": {
+    "chinese_name": "金斑蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Argyreus (金斑蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Orange wings with black borders; also called Indian fritillary. (橙色翅，黑色邊緣，又稱印度金斑蝶。)"
+  },
+  "Cyrestis_thyodamas": {
+    "chinese_name": "斜紋蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Cyrestis (斜紋蝶屬)",
+    "wingspan": "55–70mm",
+    "region": "Hong Kong, South China (香港及華南地區)",
+    "notes": "White wings with fine brown stripes, resembling a map. (白翅帶棕線，形似地圖。)"
+  },
+  "Neptis_hylas": {
+    "chinese_name": "白帶蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Neptis (蛺蝶屬)",
+    "wingspan": "55–70mm",
+    "region": "Hong Kong, Asia (香港及亞洲地區)",
+    "notes": "Dark wings with a broad white band. (深色翅具寬白帶。)"
+  },
+  "Kaniska_canace": {
+    "chinese_name": "大紫蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Kaniska (大紫蛺蝶屬)",
+    "wingspan": "70–90mm",
+    "region": "Hong Kong, Asia (香港及亞洲地區)",
+    "notes": "Upperwing dark purple with light markings. Strong flyer. (上翅深紫色具淺斑，飛行力強。)"
+  },
+  "Abisara_echerius": {
+    "chinese_name": "燕蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Riodinidae (燕蛺蝶科)",
+    "Genus": "Abisara (燕蛺蝶屬)",
+    "wingspan": "40–50mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Small butterfly with metallic markings. (小型蝶，具金屬光澤斑紋。)"
+  },
+  "Ariadne_ariadne": {
+    "chinese_name": "網蛺蝶",
+    "Order": "Lepidoptera (鱗翅目)",
+    "Family": "Nymphalidae (蛺蝶科)",
+    "Genus": "Ariadne (網蛺蝶屬)",
+    "wingspan": "40–50mm",
+    "region": "Hong Kong, South China, Southeast Asia (香港、華南及東南亞)",
+    "notes": "Orange-brown wings with net-like patterns. (橙褐色翅具網狀斑紋。)"
+  }
+}
