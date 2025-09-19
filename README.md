@@ -9,8 +9,19 @@ The project combines:
 - **Interactive web deployment (Gradio)**
 
 ---
-
 ## 📂 Project Structure
+
+```plaintext
+butterfly-id/
+│── data/                # Training/validation images
+│── output/              # Model checkpoints & best model (put best_model_state.pt here)
+│── app/                 # Web app files (labels.txt, species_info.json)
+│── train.py             # Training loop (with autosave + resume)
+│── app.py               # Gradio web app
+│── README.md            # Project description
+```
+---
+## 📦 Repository Contents
 
 - `train.py` &rarr; Training loop (ResNet50, checkpoint, validation)  
 - `app.py` &rarr; Gradio web app for butterfly species identification  
@@ -30,12 +41,8 @@ The project combines:
     - ✅ **Validation**  
         - 🌟 **Save Best Model if Val improves** &rarr; `best_model_state.pt`
 5. 🚀 **Gradio Web App**
-
----
-
 - **`checkpoint.pth`** &rarr; Resume training from the last checkpoint.
 - **`best_model_state.pt`** &rarr; Used in the web app (`app.py`).
-
 ---
 
 ## ⚡ Features
@@ -92,7 +99,8 @@ Upload a butterfly photo → get species prediction + info (Chinese + English).
 - Implement a feature that allows users to capture photos directly using their device's camera for real-time species identification.
 
 ---
-## 🚀 Flow Chart
+## 🚀 Workflow
+
 ```mermaid
 flowchart TD
     A[📂 Dataset] --> B[🔍 Auto Class Detection]
@@ -105,3 +113,5 @@ flowchart TD
     G --> I[📂 best_model_state.pt]
     H --> I
     I --> J[🚀 Gradio Web App]
+
+
