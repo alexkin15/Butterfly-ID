@@ -91,3 +91,16 @@ Upload a butterfly photo → get species prediction + info (Chinese + English).
 - Add a mobile app version for field use
 
 ---
+## 🚀 Flow Chart
+```mermaid
+flowchart TD
+    A[📂 Dataset] --> B[🔍 Auto Class Detection]
+    B --> C[🧠 ResNet50 Model]
+    C --> D[📊 Training Loop]
+    D --> E[✅ Validation]
+    D --> F[💾 Checkpoint Save every 15min]
+    E --> G[🌟 Save Best Model if Val improves]
+    F --> H[📂 checkpoint.pth]
+    G --> I[📂 best_model_state.pt]
+    H --> I
+    I --> J[🚀 Gradio Web App]
