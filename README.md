@@ -13,12 +13,23 @@ The project combines:
 
 ```plaintext
 butterfly-id/
-│── data/                # Training/validation images
-│── output/              # Model checkpoints & best model (put best_model_state.pt here)
-│── app/                 # Web app files (labels.txt, species_info.json)
-│── train.py             # Training loop (with autosave + resume)
-│── app.py               # Gradio web app
-│── README.md            # Project description
+│
+├── data/
+│   ├── train/ # Training images
+│   ├── test/  # Test images
+│   ├── val/   # Validation images
+│
+├── output/ # Model checkpoints & best model (put best_model_state.pt here)
+│
+├── app/ # Web app files (labels.txt, species_info.json)
+│   ├── labels.txt      # Contains labels
+│   ├── species_info.json   # Information about species
+│
+├── train.py # Training loop (with autosave + resume)
+│
+├── app.py # Gradio web app
+│
+├── README.md # Project description
 ```
 ---
 ## 📦 Repository Contents
