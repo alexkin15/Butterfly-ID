@@ -89,6 +89,7 @@ Upload a butterfly photo → get species prediction + info (Chinese + English).
 - Expand dataset to include all 260+ butterfly species in Hong Kong
 - Improve model accuracy with data augmentation
 - Add a mobile app version for field use
+- Implement a feature that allows users to capture photos directly using their device's camera for real-time species identification.
 
 ---
 ## 🚀 Flow Chart
