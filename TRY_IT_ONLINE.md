@@ -24,8 +24,7 @@ You can use the **interactive web app hosted on Hugging Face Spaces**:
 ---
 
 ## 🦋 Species the Model Can Identify
-
-<p style="font-size:14px; line-height:1.4;">
+```
 Abisara_echerius<br>
 Acytolepis_puspa<br>
 Ampittia_dioscorides<br>
@@ -56,8 +55,7 @@ Pieris_canidia<br>
 Ypthima_baldus<br>
 Zemeros_flegyas<br>
 Zizeeria_maha
-</p>
-
+```
 
 ---
 
