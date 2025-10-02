@@ -1,4 +1,5 @@
 # 🦋 Butterfly Species Identifier (Hong Kong)
+[![Open in Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Try%20it%20online-blue)](https://huggingface.co/spaces/alexkin15/Butterfly-ID)
 
 This project focuses on **butterfly species classification** using **machine learning (PyTorch + ResNet50)**.  
 It fills a **gap in the Hong Kong market**, where no existing app specifically helps users identify local butterfly species.
