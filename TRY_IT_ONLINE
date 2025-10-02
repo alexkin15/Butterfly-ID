@@ -1,11 +1,11 @@
-🦋 Try It Online: Butterfly Species Identifier (Web Demo)
+#🦋 Try It Online: Butterfly Species Identifier (Web Demo)
 
 Want to test the Butterfly Species Identifier without installing or cloning the repo?
 You can use the interactive web app hosted on Hugging Face Spaces:
 
 👉 🌐 Try the Web App Here
 
-💡 How It Works
+##💡 How It Works
 
 Upload a butterfly photo → the model predicts the most likely species.
 
@@ -15,7 +15,7 @@ Browse trained species in the Species List tab.
 
 Download sample images (provided below the identifier) to quickly test the model.
 
-📷 Example Usage
+##📷 Example Usage
 
 Drag & drop a butterfly photo (e.g., taken in Hong Kong).
 
@@ -23,10 +23,10 @@ Or use one of the provided sample images.
 
 The model will return top-5 predictions with probabilities, along with species information.
 
-🦋 Species the Model Can Identify
+##🦋 Species the Model Can Identify
 
 The current model is trained on the following butterfly species (Hong Kong focus):
-
+```
 Abisara_echerius
 Acytolepis_puspa
 Ampittia_dioscorides
@@ -57,17 +57,11 @@ Pieris_canidia
 Ypthima_baldus
 Zemeros_flegyas
 Zizeeria_maha
-
+```
 
 (More species will be added in future versions.)
 
-🔗 Resources
-
-📘 GitHub Repository
-
-🚀 Hugging Face Space (Web Demo)
-
-📝 Notes
+#📝 Notes
 
 The web demo uses the trained ResNet50 model (best_model_state.pt).
 
